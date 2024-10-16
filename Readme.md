@@ -10,8 +10,6 @@
 6. [Section E: Form Validation](#section-e-form-validation)
 7. [Section F: Static Username and Password Check](#section-f-static-username-and-password-check)
 8. [Section G: Account Locking After 5 Invalid Password Attempts](#section-g-account-locking-after-5-invalid-password-attempts)
-9. [Section H: Implement Failed Attempt Counter](#section-h-implement-failed-attempt-counter)
-10. [Section I: GitHub and Documentation](#section-i-github-and-documentation)
 
 ## Introduction
 
@@ -80,5 +78,5 @@ This document provides an overview of the JavaFX Login Page Application, coverin
 ## Section I: GitHub and Documentation
 - The JavaFX project is uploaded to a GitHub repository.
 - This documentation, along with screenshots and code examples, is provided in the repository.
-- [GitHub Repository](https://github.com/khadkaankit85/Desktop-App-For-Validation)
+- [GitHub Repository](https://github.com/khadkaankit85/Desktop-App-For-Validation/ )
 ```
